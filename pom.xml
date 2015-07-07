@@ -32,7 +32,7 @@
     <properties>
         <libdir>${basedir}/target/lib</libdir>
         <targeturl>http://marell.se/nexus/content/repositories/releases</targeturl>
-        <javacpp.version>${project.version}</javacpp.version>
+        <javacpp.version>0.10</javacpp.version>
 
         <artoolkitplus.version>2.3.1</artoolkitplus.version>
         <artoolkitplus.target.version>${artoolkitplus.version}-${javacpp.version}</artoolkitplus.target.version>
