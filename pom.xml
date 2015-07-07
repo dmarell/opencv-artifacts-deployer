@@ -6,7 +6,7 @@
 
     <groupId>se.marell</groupId>
     <artifactId>opencv-artifacts-deployer</artifactId>
-    <version>0.10</version>
+    <version>0.10.1</version>
     <description>
         Opencv runtime libraries artifact installer.
 
