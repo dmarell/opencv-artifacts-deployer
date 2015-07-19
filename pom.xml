@@ -6,7 +6,7 @@
 
     <groupId>se.marell</groupId>
     <artifactId>opencv-artifacts-deployer</artifactId>
-    <version>0.10.1</version>
+    <version>0.10.2</version>
     <description>
         Opencv runtime libraries artifact installer.
 
@@ -62,11 +62,11 @@
     <distributionManagement>
         <repository>
             <id>marell</id>
-            <url>http://marell.se/nexus/content/repositories/releases</url>
+            <url>http://marell.se/artifactory/libs-release-local</url>
         </repository>
         <snapshotRepository>
             <id>marell-snapshots</id>
-            <url>http://marell.se/nexus/content/repositories/snapshots</url>
+            <url>http://marell.se/artifactory/libs-snapshot-local</url>
         </snapshotRepository>
     </distributionManagement>
 
@@ -86,7 +86,7 @@
     <repositories>
         <repository>
             <id>marell</id>
-            <url>http://marell.se/nexus/content/repositories/releases/</url>
+            <url>http://marell.se/artifactory/libs-release</url>
         </repository>
     </repositories>
 

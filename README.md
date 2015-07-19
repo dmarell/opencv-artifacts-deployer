@@ -2,13 +2,12 @@
 
 ### Release notes
 
-#### Version 0.10.1 - 2015-07-07
-
-Moved to Github. Same artifact but changed documentation.
-
-#### Version 0.10 - 2015-01-14
-
-First version.
+* Version 0.10.2 - 2015-07-19
+  * Changed repo URL.
+* Version 0.10.1 - 2015-07-07
+  * Moved to Github. Same artifact, updated documentation.
+* Version 0.10 - 2015-01-14
+  * First version.
 
 ### The problem
 
